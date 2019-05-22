@@ -71,3 +71,6 @@ Recreate the following comps using media queries to match the layouts on large, 
 ![challenge 2b](images/comp2b.png)
 
 ![challenge 2c](images/comp2c.png)
+
+
+credits: https://github.com/turingschool-examples/responsive-layout-challenges
